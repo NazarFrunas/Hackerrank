@@ -1,4 +1,4 @@
-mod Big_Sum;
+mod diagonal_difference;
 
 fn main() {
     println!("Hello, world!");
