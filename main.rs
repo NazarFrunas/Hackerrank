@@ -1,4 +1,4 @@
-mod simple_array_sum;
+mod compare;
 
 fn main() {
     println!("Hello, world!");
