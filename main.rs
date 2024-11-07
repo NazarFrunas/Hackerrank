@@ -1,4 +1,4 @@
-mod plus_minus;
+mod Staircase;
 
 fn main() {
     println!("Hello, world!");
