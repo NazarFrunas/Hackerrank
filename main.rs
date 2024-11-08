@@ -1,4 +1,4 @@
-mod mini_max_sum;
+mod r#cake;
 
 fn main() {
     println!("Hello, world!");
