@@ -1,4 +1,4 @@
-mod divisible_sum_pairs;
+mod migratory_birds;
 
 fn main() {
     println!("Hello, world!");
